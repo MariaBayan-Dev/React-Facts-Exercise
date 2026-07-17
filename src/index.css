@@ -10,10 +10,12 @@
   width: 550px;
   border-radius: 20px;
   overflow: hidden;
+  border: 5px solid white;
 }
 
 main{
   width: 100%;
+  padding: 1rem 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,6 +24,7 @@ main{
 
 body{
   min-height: 100vh;
+  background-color: gray;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,14 +66,23 @@ section > h1{
   color: white;
   font-weight: 700;
   padding-bottom: 1rem;
+  margin: 0;
+  font-size: 2.4rem;
 }
 
-ul{
-  padding-left: 2rem;
+.facts-list{
+  max-width: 400px;
+  margin-top: 1rem;
+  padding-left: 2.5rem;
 }
 
-ul > li{
+.facts-list > li{
+  padding-block: 10px;
+  line-height: 19px;
   color: white;
-  padding: 0.40rem;
 }
 
+.facts-list > li::marker{
+  color: #61DAFB;
+  font-size: 1.5rem;
+}
