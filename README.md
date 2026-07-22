@@ -1,17 +1,32 @@
-# React + Vite
+# 🟦 React Facts Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+First project I've done with the React framework from the Scrimba course.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React-based data card with navbar, main content, and responsive/centered design.
+- Basic component usage.
+  
+## 🛠️ Technologies
 
-## React Compiler
+![React](https://shields.io/badge/-React-4377cb?logo=react)
+![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📚 What I learned
 
-## Expanding the ESLint configuration
+- JSX.
+- Props conceptually.
+- exporting/importing components,
+- Fragment,
+- organizing files in components/,
+- differences between imperative/declarative,
+- background-position with clipping,
+- ::before for decorative layers...
+  
+## 🔮 Future Improvements
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# React-Facts-Exercise
+- Make it interactive in the future with useState, or add more dynamic data from an API instead
+of having it hardcoded.
+
+## 🔗 Live Demo
+
