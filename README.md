@@ -21,7 +21,6 @@ First project I've done with the React framework from the Scrimba course.
 - Organizing files in components.
 - Differences between imperative/declarative.
 - Background-position with clipping.
-<<<<<<< HEAD
 
   
 ## 🔮 Future Improvements
@@ -35,17 +34,3 @@ of having it hardcoded.
 
 <img width="859" height="674" alt="Captura de pantalla 2026-07-21 175710" src="https://github.com/user-attachments/assets/f202df8b-d265-479a-aae3-b160069d56df" />
 
-=======
-
-  
-## 🔮 Future Improvements
-
-- Make it interactive in the future with useState, or add more dynamic data from an API instead
-of having it hardcoded.
-
-## 🔗 Live Demo
-
-## 📸 Preview
-
-<img width="859" height="674" alt="Captura de pantalla 2026-07-21 175710" src="https://github.com/user-attachments/assets/f202df8b-d265-479a-aae3-b160069d56df" />
->>>>>>> 57574550f8841e648d5d0f0443ab2883bb34948e
