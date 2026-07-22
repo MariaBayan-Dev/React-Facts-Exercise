@@ -16,12 +16,12 @@ First project I've done with the React framework from the Scrimba course.
 
 - JSX.
 - Props conceptually.
-- exporting/importing components,
-- Fragment,
-- organizing files in components/,
-- differences between imperative/declarative,
-- background-position with clipping,
-- ::before for decorative layers...
+- Exporting/importing components.
+- Fragment.
+- Organizing files in components.
+- Differences between imperative/declarative.
+- Background-position with clipping.
+
   
 ## 🔮 Future Improvements
 
@@ -30,3 +30,6 @@ of having it hardcoded.
 
 ## 🔗 Live Demo
 
+## 📸 Preview
+
+<img width="859" height="674" alt="Captura de pantalla 2026-07-21 175710" src="https://github.com/user-attachments/assets/f202df8b-d265-479a-aae3-b160069d56df" />
