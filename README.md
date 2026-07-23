@@ -30,6 +30,8 @@ of having it hardcoded.
 
 ## 🔗 Live Demo
 
+[React Facts Exercise](https://mariabayan-dev.github.io/React-Facts-Exercise/)
+
 ## 📸 Preview
 
 <img width="859" height="674" alt="Captura de pantalla 2026-07-21 175710" src="https://github.com/user-attachments/assets/f202df8b-d265-479a-aae3-b160069d56df" />
