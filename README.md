@@ -26,13 +26,15 @@ First project I've done with the React framework from the Scrimba course.
 ## 🔮 Future Improvements
 
 - Make it interactive in the future with useState, or add more dynamic data from an API instead
-of having it hardcoded.
+  of having it hardcoded.
+
+  ## 📸 Preview
+
+<img width="859" height="674" alt="Captura de pantalla 2026-07-21 175710" src="https://github.com/user-attachments/assets/f202df8b-d265-479a-aae3-b160069d56df" />
+
 
 ## 🔗 Live Demo
 
-[React Facts Exercise](https://mariabayan-dev.github.io/React-Facts-Exercise/)
+- [React Facts Exercise](https://mariabayan-dev.github.io/React-Facts-Exercise/)
 
-## 📸 Preview
-
-<img width="859" height="674" alt="Captura de pantalla 2026-07-21 175710" src="https://github.com/user-attachments/assets/f202df8b-d265-479a-aae3-b160069d56df" />
 
